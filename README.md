@@ -28,9 +28,7 @@ The dataset used in this project is sourced from kaggle, containing information 
 ## Machine Learning Models
 
 - **Logistic Regression**
-- **Random Forest**
-- **Support Vector Machine (SVM)**
-- **K-Nearest Neighbors (KNN)**
+- **Gaussian Naive Bayes**
 
 ## Project Workflow
 
