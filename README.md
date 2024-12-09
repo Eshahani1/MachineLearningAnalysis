@@ -13,7 +13,7 @@ This project focuses on using machine learning to analyze and predict patterns i
 
 ## Dataset
 
-The dataset used in this project is sourced from [source name], containing information on car accidents in the United States. Key features include accident location, weather conditions, time of day, and other relevant details.
+The dataset used in this project is sourced from kaggle, containing information on car accidents in the United States. Key features include accident location, weather conditions, time of day, and other relevant details. Link to dataset https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents 
 
 ## Technologies Used
 
